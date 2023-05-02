@@ -1,3 +1,5 @@
+// 1.940s/6318
+// I did not realize that the input was ordered/ordering would be faster than doing whatever this is.
 #include <bits/stdc++.h>
 
 using namespace std;

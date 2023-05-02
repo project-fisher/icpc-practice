@@ -1,3 +1,4 @@
+// 0.030s/1287(1)
 #include <bits/stdc++.h>
 
 using namespace std;
