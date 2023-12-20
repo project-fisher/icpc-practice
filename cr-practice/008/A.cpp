@@ -2,12 +2,10 @@
 #define llu unsigned long long
 #define ll long long
 #define lu unsigned long
-
 using namespace std;
 
 int main() {
-	int t; scanf("%d", &t);
-	while (t--) {
-	}
+	int a, b; scanf("%d%d", &a, &b);
+	printf("%.3f\n", b*1.0f/a);
 	return 0;
 }
